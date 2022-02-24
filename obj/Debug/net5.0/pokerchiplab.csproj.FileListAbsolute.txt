@@ -1,0 +1,15 @@
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/pokerchiplab.deps.json
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/pokerchiplab.runtimeconfig.json
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/pokerchiplab.runtimeconfig.dev.json
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/pokerchiplab.dll
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/ref/pokerchiplab.dll
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/bin/Debug/net5.0/pokerchiplab.pdb
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.csproj.AssemblyReference.cache
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.AssemblyInfoInputs.cache
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.AssemblyInfo.cs
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.csproj.CoreCompileInputs.cache
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.dll
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/ref/pokerchiplab.dll
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.pdb
+/Users/brandonstephens/OneDrive/Documents/TA for 221/221 Test Code/pokerchiplab/obj/Debug/net5.0/pokerchiplab.genruntimeconfig.cache
